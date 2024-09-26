@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Lucas Feliciano 👋
 
-<!--
-**Felici4no/Felici4no** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ About Me
+- 🎓 I'm studying **Software Engineering** at FIAP
+- 🌱 I’m currently learning **PHP** and **Software Architecture**
+- 💼 I'm passionate about **technology** and **innovation**
+- 🔭 I'm working on a project called **OceanGuard** to promote **Blue Economy** and ocean sustainability
+- 👨‍💻 I’m looking to collaborate on **IoT** and **web development** projects
+- 🚀 My goal is to **positively impact the world through technology**
 
-Here are some ideas to get you started:
+### ⚙️ My Interests
+- 🔧 Programming languages: **C, Python, JavaScript, PHP**
+- 🕹️ Hobbies: Building **RPG games** and **coding web pages** for fun
+- 💡 Fun fact: I'm a big fan of **comics** and **Formula E**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to Reach Me
+- LinkedIn: [Lucas Feliciano](https://linkedin.com/in/felici4no)
+- GitHub: [@Felici4no](https://github.com/Felici4no)
+
